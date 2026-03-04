@@ -7,6 +7,6 @@ class Add {
         int sum = firstNumber + secondNumber; 
         
         
-        System.out.println(firstNumber + " + " + secondNumber + " = " + sum);
+        System.out.println( sum);
     }
 }
